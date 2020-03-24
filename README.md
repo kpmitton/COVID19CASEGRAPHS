@@ -4,7 +4,8 @@ Initially I am plotting for US States and Canadian Provinces and Australian Stat
 
 The graphs will be found in folders named by date, and are provided in PDF format. 
 My graphs are free to use, share, for public use with attribution information included. This includes journalists, who are welcome to use
-for their own education or for their own articles. Educators welcome too. Please use. Please educate suring this pandemic. 
+for their own education or for their own articles. Educators welcome too. Please use. Please educate during this pandemic. 
+STAYHOME
 
 Data used from Johns Hopkins resository is from:
 
